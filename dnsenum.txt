@@ -1,17 +1,19 @@
+dnsenum.pl VERSION:1.2.4
+[1;34m
 -----   apitwitter.com   -----
-
+[0m[1;31m
 
 Host's addresses:
 __________________
 
-apitwitter.com.                          60       IN    A        104.245.32.240
+[0mapitwitter.com.                          14       IN    A        104.245.32.240
+[1;31m
 
-
-Wildcard detection using: jaweazpczxoi
+Wildcard detection using: fiyymrwbxqur
 _______________________________________
 
-jaweazpczxoi.apitwitter.com.             60       IN    A        104.245.32.240
-
+[0mfiyymrwbxqur.apitwitter.com.             60       IN    A        104.245.32.240
+[1;31m
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -20,42 +22,38 @@ jaweazpczxoi.apitwitter.com.             60       IN    A        104.245.32.240
  Maybe you are using OpenDNS servers.
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
+[0m[1;31m
 
 Name Servers:
 ______________
 
-ns1.orangesite.org.                      86400    IN    A        185.157.233.104
-
+[0mns1.orangesite.org.                      85881    IN    A        185.157.233.104
+[1;31m
 
 Mail (MX) Servers:
 ___________________
 
-
+[0m[1;31m
 
 Trying Zone Transfers and getting Bind Versions:
 _________________________________________________
 
-
+[0m
 Trying Zone Transfer for apitwitter.com on ns1.orangesite.org ... 
-AXFR record query failed: REFUSED
 
 Trying Zone Transfer for apitwitter.com on ns2.orangesite.org ... 
-AXFR record query failed: REFUSED
-
+[1;31m
 
 Scraping apitwitter.com subdomains from Google:
 ________________________________________________
 
-
+[0m
  ----   Google search page: 1   ---- 
 
-
+[1;31m
 
 Google Results:
 ________________
 
-  perhaps Google is blocking our queries.
- Check manually.
-
+[0m
 brute force file not specified, bay.
