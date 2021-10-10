@@ -1,0 +1,61 @@
+-----   apitwitter.com   -----
+
+
+Host's addresses:
+__________________
+
+apitwitter.com.                          60       IN    A        104.245.32.240
+
+
+Wildcard detection using: jaweazpczxoi
+_______________________________________
+
+jaweazpczxoi.apitwitter.com.             60       IN    A        104.245.32.240
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ Wildcards detected, all subdomains will point to the same IP address
+ Omitting results containing 104.245.32.240.
+ Maybe you are using OpenDNS servers.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+Name Servers:
+______________
+
+ns1.orangesite.org.                      86400    IN    A        185.157.233.104
+
+
+Mail (MX) Servers:
+___________________
+
+
+
+Trying Zone Transfers and getting Bind Versions:
+_________________________________________________
+
+
+Trying Zone Transfer for apitwitter.com on ns1.orangesite.org ... 
+AXFR record query failed: REFUSED
+
+Trying Zone Transfer for apitwitter.com on ns2.orangesite.org ... 
+AXFR record query failed: REFUSED
+
+
+Scraping apitwitter.com subdomains from Google:
+________________________________________________
+
+
+ ----   Google search page: 1   ---- 
+
+
+
+Google Results:
+________________
+
+  perhaps Google is blocking our queries.
+ Check manually.
+
+brute force file not specified, bay.
